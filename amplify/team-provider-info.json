@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nekohackstudio-staging-90442-authRole",
+      "UnauthRoleArn": "arn:aws:iam::972799352477:role/amplify-nekohackstudio-staging-90442-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::972799352477:role/amplify-nekohackstudio-staging-90442-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-nekohackstudio-staging-90442-deployment",
+      "UnauthRoleName": "amplify-nekohackstudio-staging-90442-unauthRole",
+      "StackName": "amplify-nekohackstudio-staging-90442",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:972799352477:stack/amplify-nekohackstudio-staging-90442/62bb5c10-55aa-11ec-9b38-0aacdc770a2b",
+      "AmplifyAppId": "dq22b8i35qe6o"
+    }
+  }
+}
